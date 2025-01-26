@@ -1,7 +1,7 @@
 ﻿﻿# Modelo_Predicao_Consumo_Energia
 
 <p align="center">
-  <img src = './img01.jpeg' width = '50%'>
+  <img src = './img01.jpg' width = '50%'>
 </p>
 
 ## Descrição do Projeto
