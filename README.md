@@ -1,12 +1,12 @@
 ﻿﻿# Modelo_Predicao_Consumo_Energia
 
 <p align="center">
-  <img src = './img01.png' width = '50%'>
+  <img src = './img01.jpeg' width = '50%'>
 </p>
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de ser um Modelo de Machine Learning para prever o consumo de eletricidade com base em metadados de construção, utilizando histórico e dados meteorológicos. O conjunto de dados inclui leituras de medidores por hora de 100 edifícios em vários locais diferentes ao redor do mundo.
+Este projeto tem o intuito de studar Modelos de Séries Temporais para previsão de informações sobre o Covid19 no Brasil.
 
 ## Fundamentação Teórica
 
@@ -26,6 +26,6 @@ Este projeto tem o intuito de ser um Modelo de Machine Learning para prever o co
 
 ## Referências
 
-[KAGGLE](https://www.kaggle.com/competitions/predicting-electricity-consumption/data?select=train.csv)
+[KAGGLE](https://www.kaggle.com/datasets/unanimad/corona-virus-brazil?select=brazil_covid19_cities.csv)
 
 
