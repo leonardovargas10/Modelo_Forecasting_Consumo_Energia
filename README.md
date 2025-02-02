@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de studar Modelos de Séries Temporais para previsão de informações sobre o Covid19 no Brasil.
+Este projeto tem o intuito de estudar Modelos de Séries Temporais para previsão de informações sobre o Covid19 no Brasil.
 
 ## Fundamentação Teórica
 
