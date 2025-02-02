@@ -1,6 +1,4 @@
-﻿﻿## Modelo COVID-19
-
-<p align="center">
+﻿﻿<p align="center">
   <img src = './img01.jpg' width = '50%'>
 </p>
 
