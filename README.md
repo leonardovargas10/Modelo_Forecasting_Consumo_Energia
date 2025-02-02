@@ -1,4 +1,4 @@
-﻿﻿# Modelo_Predicao_Consumo_Energia
+﻿﻿# Modelo COVID-19
 
 <p align="center">
   <img src = './img01.jpg' width = '50%'>
